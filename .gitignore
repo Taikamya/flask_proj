@@ -1,0 +1,12 @@
+# Virtual Environments
+venv
+
+# Proj files
+settings.py
+model.py
+
+# Databases
+*.sqlite
+
+# Cached files
+__pycache__
